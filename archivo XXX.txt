@@ -1,0 +1,6 @@
+Gracias Limbert Huanca por Compartir los codigos.
+------------------------------------------------
+
+git config --global user.name GustavoAyalaAMC
+
+git config --global user.email Mauricio_AMC18@hotmail.com
